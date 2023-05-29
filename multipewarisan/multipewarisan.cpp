@@ -20,4 +20,12 @@ class manusia {
 public:
 	string jenisKelamin;
 
+	manusia(string pJenisKelamin) :
+		jenisKelamin(pJenisKelamin) {
+		cout << "manusia dibuat\n" << endl;
+	}
+
+	~manusia() {
+		cout << "manusia dihapus\n" << endl;
+	}
 };
