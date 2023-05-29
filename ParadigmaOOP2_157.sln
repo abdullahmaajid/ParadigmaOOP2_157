@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solvemultiwaris", "solvemul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\polimorpi.vcxproj", "{DDBB204B-55F3-46D4-928F-AE8F2FEE945B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nopewarisan", "nopewarisan\nopewarisan.vcxproj", "{EB7DD40A-4229-4894-967C-3AE68B9233FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -83,6 +85,18 @@ Global
 		{DDBB204B-55F3-46D4-928F-AE8F2FEE945B}.Release|x64.Build.0 = Release|x64
 		{DDBB204B-55F3-46D4-928F-AE8F2FEE945B}.Release|x86.ActiveCfg = Release|Win32
 		{DDBB204B-55F3-46D4-928F-AE8F2FEE945B}.Release|x86.Build.0 = Release|Win32
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Debug|arm64.ActiveCfg = Debug|arm64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Debug|arm64.Build.0 = Debug|arm64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Debug|x64.ActiveCfg = Debug|x64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Debug|x64.Build.0 = Debug|x64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Debug|x86.Build.0 = Debug|Win32
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|arm64.ActiveCfg = Release|arm64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|arm64.Build.0 = Release|arm64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x64.ActiveCfg = Release|x64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x64.Build.0 = Release|x64
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x86.ActiveCfg = Release|Win32
+		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
