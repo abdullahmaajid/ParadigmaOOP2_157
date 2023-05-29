@@ -3,7 +3,7 @@
 using namespace std;
 
 class orang {
-public: 
+public:
 	string nama;
 
 	orang(string pNama) :
@@ -46,11 +46,12 @@ public:
 	}
 
 	string perkenalan() {
-		return "Halo, nama saya " + nama + " dengan jenis kelamin " + jenisKelamin + " dari sekolah " + sekolah;
+		return "Halo, nama saya " + nama + " dengan jenis kelamin " + jenisKelamin + " dari sekolah " + sekolah + "\n\n";
 	}
 };
 
 int main() {
 	pelajar andi("Andi Laksono", "Laki-Laki", "BelajarCPP");
 	cout << andi.perkenalan();
+	return 0;
 }
