@@ -49,3 +49,7 @@ public:
 		return "Halo, nama saya " + nama + " dengan jenis kelamin " + jenisKelamin + " dari sekolah " + sekolah;
 	}
 };
+
+int main() {
+	pelajar andi("Andi Laksono", "Laki-Laki", "BelajarCPP");
+}
