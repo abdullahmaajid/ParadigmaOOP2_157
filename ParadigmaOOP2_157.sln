@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\poli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nopewarisan", "nopewarisan\nopewarisan.vcxproj", "{EB7DD40A-4229-4894-967C-3AE68B9233FA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nooveridding", "nooveridding\nooveridding.vcxproj", "{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -97,6 +99,18 @@ Global
 		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x64.Build.0 = Release|x64
 		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x86.ActiveCfg = Release|Win32
 		{EB7DD40A-4229-4894-967C-3AE68B9233FA}.Release|x86.Build.0 = Release|Win32
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Debug|arm64.ActiveCfg = Debug|arm64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Debug|arm64.Build.0 = Debug|arm64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Debug|x64.ActiveCfg = Debug|x64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Debug|x64.Build.0 = Debug|x64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Debug|x86.Build.0 = Debug|Win32
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Release|arm64.ActiveCfg = Release|arm64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Release|arm64.Build.0 = Release|arm64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Release|x64.ActiveCfg = Release|x64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Release|x64.Build.0 = Release|x64
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Release|x86.ActiveCfg = Release|Win32
+		{CE58DA19-1592-48B9-A7D5-C8DFE539AD31}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
