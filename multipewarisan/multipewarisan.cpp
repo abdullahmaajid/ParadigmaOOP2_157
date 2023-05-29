@@ -1,8 +1,9 @@
-#incliude <iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
 class orang {
+public: 
 	string nama;
 
 	orang(string pNama) :
@@ -14,3 +15,5 @@ class orang {
 		cout << "orang dihapus\n" << endl;
 	}
 };
+
+class manusia
