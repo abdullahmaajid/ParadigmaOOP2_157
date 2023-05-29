@@ -16,4 +16,7 @@ public:
 	}
 };
 
-class manusia
+class manusia {
+public:
+
+};
