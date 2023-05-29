@@ -44,4 +44,8 @@ public:
 	~pelajar() {
 		cout << "pelajar dihapus\n" << endl;
 	}
+
+	string perkenalan() {
+		return "Halo, nama saya " + nama + " dengan jenis kelamin " + jenisKelamin + 
+	}
 };
