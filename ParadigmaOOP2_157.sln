@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nooveridding", "nooveriddin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{A0EC2D96-4750-440D-AEC9-71195CA3D307}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{708C28D4-85EE-41BD-AA54-B663CC2455CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -125,6 +127,18 @@ Global
 		{A0EC2D96-4750-440D-AEC9-71195CA3D307}.Release|x64.Build.0 = Release|x64
 		{A0EC2D96-4750-440D-AEC9-71195CA3D307}.Release|x86.ActiveCfg = Release|Win32
 		{A0EC2D96-4750-440D-AEC9-71195CA3D307}.Release|x86.Build.0 = Release|Win32
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Debug|arm64.ActiveCfg = Debug|arm64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Debug|arm64.Build.0 = Debug|arm64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Debug|x64.ActiveCfg = Debug|x64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Debug|x64.Build.0 = Debug|x64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Debug|x86.Build.0 = Debug|Win32
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Release|arm64.ActiveCfg = Release|arm64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Release|arm64.Build.0 = Release|arm64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Release|x64.ActiveCfg = Release|x64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Release|x64.Build.0 = Release|x64
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Release|x86.ActiveCfg = Release|Win32
+		{708C28D4-85EE-41BD-AA54-B663CC2455CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
