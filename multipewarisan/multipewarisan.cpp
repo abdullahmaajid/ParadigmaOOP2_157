@@ -52,4 +52,5 @@ public:
 
 int main() {
 	pelajar andi("Andi Laksono", "Laki-Laki", "BelajarCPP");
+	cout << andi.perkenalan();
 }
