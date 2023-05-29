@@ -35,5 +35,9 @@ public:
 	string sekolah;
 
 	pelajar(string pNama, string pJenisKelamin, string pSekolah) :
-
+		orang(pNama),
+		manusia(pJenisKelamin),
+		sekolah(pSekolah) {
+		cout << "pelajar dibuat\n" << endl;
+	}
 };
